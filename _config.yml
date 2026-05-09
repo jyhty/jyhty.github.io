@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xingjian Yuan's Academic Portfolio" # Update this with the title of your site
+title                    : "Homepage of Xingjian Yuan" # Update this with the title of your site
 title_separator          : "-"
-name                     : &name "袁行健"
+name                     : &name "Xingjian Yuan" # Update this with your name, this is the default if not overridden by a page
 description              : &description "Xingjian Yuan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jyhty.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg" # filename of avatar image placed in /images/ for the left-hand sidebar
   name             : "袁行健"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a MS student at Tsinghua University, supervised by Prof. Jingtao Zhan." # A short biographical statement that appears in the sidebar
+  bio              : "Master's student at Tsinghua University" # A short biographical statement that appears in the sidebar
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/jyhty"
+  github           : "jyhty"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Xingjian Yuan" # Update with your LinkedIn name, e.g. "john-smith-12345678"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
