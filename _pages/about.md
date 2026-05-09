@@ -1,5 +1,26 @@
 ---
 permalink: /
+title: "Xingjian Yuan's Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Thank you for visiting my website!
+
+I am currently a Master's student majoring in **Large Model Science and Engineering** at Tsinghua Shenzhen International Graduate School, supervised by Prof. Jingtao Zhan. I obtained my Bachelor’s degree in Artificial Intelligence from Xi’an Jiaotong University.
+
+My research interests center on LLM post-training (particularly via RL), Chain-of-Thought reasoning, and LLM-based agents. At present, my work primarily explores **agent memory and self-evolving agents**.
+
+In terms of industry experience, I interned at **StepFun**, where I led the evaluation and alignment data construction for the StepAI Deep Research feature. Specifically, I built a multi-dimensional evaluation system and produced high-quality alignment datasets. I also worked as **a research intern at Huawei**, where I conducted my research on Chain-of-Thought reasoning.
+
+I am open to connecting with people from diverse backgrounds. In research, I am keen to discuss novel ideas with fellow researchers or explore potential collaborations. In industry, I am equally excited to chat with AI builders, founders, and investors. Whether you are a seasoned professional or an ambitious student full of ideas, I would be delighted to exchange insights. Please feel free to reach out to me via [{{ site.email }}](mailto:{{ site.email }}).
+
+
+<!-- 
+---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -53,4 +74,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
