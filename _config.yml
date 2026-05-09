@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg" # filename of avatar image placed in /images/ for the left-hand sidebar
   name             : "Xingjian Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student at THU" # A short biographical statement that appears in the sidebar
+  bio              : "Master's student, THU" # A short biographical statement that appears in the sidebar
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : # URL
