@@ -24,7 +24,7 @@ repository               : "jyhty/jyhty.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg" # filename of avatar image placed in /images/ for the left-hand sidebar
-  name             : "袁行健"
+  name             : "Xingjian Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Master's student at Tsinghua University" # A short biographical statement that appears in the sidebar
   location         : "Shenzhen, China"
