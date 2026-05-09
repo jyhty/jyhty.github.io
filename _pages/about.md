@@ -15,7 +15,7 @@ My research interests center on **LLM post-training (particularly via RL)**, **C
 
 In terms of industry experience, I interned at **StepFun**, where I led the evaluation and alignment data construction for the StepAI Deep Research feature. Specifically, I built a multi-dimensional evaluation system and produced high-quality alignment datasets. I also worked as **a research intern at Huawei**, where I conducted my research on Chain-of-Thought reasoning.
 
-I am open to connecting with people from diverse backgrounds. In research, I am keen to discuss novel ideas with fellow researchers or explore potential collaborations. In industry, I am equally excited to chat with AI builders, founders, and investors. **Whether you are a seasoned professional or an ambitious student full of ideas, I would be delighted to exchange insights. Please feel free to reach out to me via [email](mailto:yxj2276215731@163.com).**
+I am open to connecting with people from diverse backgrounds. In research, I am keen to discuss novel ideas with fellow researchers or explore potential collaborations. In industry, I am equally excited to chat with AI builders, founders, and investors. Whether you are a seasoned professional or an ambitious student full of ideas, **I would be delighted to exchange insights. Please feel free to reach out to me via [email](mailto:yxj2276215731@163.com).**
 
 
 <!-- 
